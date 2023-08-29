@@ -1,9 +1,9 @@
 # react-one
 REACT homework #1
 
-Założyć repozytorium dedykowane do dydaktycznej częsci kursu react
-Za pomocą vite zainstalować projekt React z js na swoim komputerze
-Odpalić projekt w przeglądarce.
+Założyć repozytorium dedykowane do dydaktycznej częsci kursu react - OK
+Za pomocą vite zainstalować projekt React z js na swoim komputerze - OK
+Odpalić projekt w przeglądarce. - OK
 Stworzyć folder "components"
 W folderze "components" stworzyć dwa komponenty: Button i Outcome
 Button ma posiadać napis "Dodaj klik"
