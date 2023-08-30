@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import Button from './components/Button.jsx'
-import Outcome from './components/Outcome.jsx'
+import Button from './components/button.jsx'
+import Outcome from './components/outcome.jsx'
 import './App.css'
 
 function App() {
