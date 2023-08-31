@@ -11,5 +11,5 @@ Outcome ma wyswietlac ilosć kilknięć - OK
 Stworzone komponenty zaimportować i wywołać w komponencie App - OK
 Do komponentu Outcome przekazać props coutn, natomiast do button props setCount - OK
 Na koniec ostylować oba komponenty w za pomocą dedykowanych plików css -OK
-Połączyć przestrzeń na dysku z repozytorium. -OK
+Połączyć przestrzeń na dysku z repozytorium. -OK?
 Wysłać projekt na repozytorium -OK
