@@ -1,20 +1,13 @@
-import { useState } from 'react'
-import Button from './components/button.jsx'
-import Outcome from './components/outcome.jsx'
-import './App.css'
+import React from 'react';
+import Button from './components/button.jsx'; 
 
-function App() {
-  const [count, setCount] = useState(0)
-  
+const App = () => {
   return (
-    <>
-      <h1>Praca domowa #1</h1>
-      <div className="main">        
-        <Button  />
-        <Outcome count={count}/>
-      </div>
-    </>
-  )
+    
+    <div>
+      <Button />
+    </div>
+  );
 }
 
-export default App
+export default App;
