@@ -5,7 +5,7 @@ const Button = () => {
   const [count, setCount] = useState(0);
 
   return (
-    <div className="clicks">
+    <div >
         <h1>Praca domowa #1</h1>
       <button className="button" onClick={() => setCount((count) => count + 1)}>
         Dodaj Klik
